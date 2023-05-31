@@ -1,1 +1,1 @@
-My second readme. Education purp
+My second readme
